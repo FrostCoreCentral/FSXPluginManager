@@ -107,8 +107,8 @@ command hello {
 
 1. **Fork and clone:**
 ```bash
-git clone https://github.com/YourUsername/FrostSentinel.git
-cd FrostSentinel
+git clone https://github.com/FrostCoreCentral/FSXPluginManager.git
+cd FSXPluginManager
 ```
 
 2. **Install dependencies:**
