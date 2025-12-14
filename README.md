@@ -432,7 +432,7 @@ When using or modifying this system:
 ```
 Powered by FrostSentinel Plugin System
 Created by FrostByteNinja
-https://github.com/YourUsername/FrostSentinel
+https://github.com/FrostCoreCentral/FSXPluginManage
 ```
 
 ### Core Maintainer Rights
@@ -443,10 +443,10 @@ https://github.com/YourUsername/FrostSentinel
 
 ## 🆘 Support
 
-- 📖 [Documentation](https://docs.frostsentinel.io)
-- 💬 [Discord Server](https://discord.gg/your-invite)
-- 🐛 [Report Issues](https://github.com/YourUsername/FrostSentinel/issues)
-- 💡 [Feature Requests](https://github.com/YourUsername/FrostSentinel/discussions)
+- 📖 [Documentation](https://docs.frostsentinel.com)
+- 💬 [Discord Server](https://discord.gg/dzyZhDFs5Y)
+- 🐛 [Report Issues](https://github.com/FrostCoreCentral/FSXPluginManager/issues)
+- 💡 [Feature Requests](https://github.com/FrostCoreCentral/FSXPluginManager/discussions)
 
 ## 🙏 Acknowledgments
 
