@@ -1,0 +1,67 @@
+/**
+ * ========================================================================
+ * FrostSentinel Plugin Manager
+ * ========================================================================
+ * 
+ * A powerful, secure, and extensible Discord bot plugin system that allows
+ * developers to create custom bot functionality using a Domain-Specific
+ * Language (DSL).
+ * 
+ * @author FrostByteNinja
+ * @version 2.0.0
+ * @license MIT
+ * 
+ * ========================================================================
+ * FEATURES
+ * ========================================================================
+ * 
+ * ✅ Custom DSL for easy plugin development
+ * ✅ Sandboxed execution (VM2) for security
+ * ✅ Scope-based permission system
+ * ✅ Commands with parameters and cooldowns
+ * ✅ Button interactions
+ * ✅ Reaction handlers
+ * ✅ Logic listeners (pattern-based message handling)
+ * ✅ Custom events and triggers
+ * ✅ Database integration
+ * ✅ HTTP client with rate limiting
+ * ✅ Import validation
+ * 
+ * ========================================================================
+ * IMPORTANT NOTES
+ * ========================================================================
+ * 
+ * 🔒 SECURITY: All plugin code runs in an isolated VM sandbox
+ * ⚠️ MODIFICATIONS: Core PluginManager changes require approval from FrostByteNinja
+ * 📝 ATTRIBUTION: Please maintain credit to FrostByteNinja when using this system
+ * 
+ * ========================================================================
+ * USAGE
+ * ========================================================================
+ * 
+ * ```typescript
+ * const pluginManager = new PluginManager(client);
+ * 
+ * // Install a plugin
+ * await pluginManager.installPluginFromMarketplace(guildId, itemId);
+ * 
+ * // Plugin code runs automatically
+ * // - Commands are handled via message events
+ * // - Buttons are handled via interaction events
+ * // - Logic listeners run on every message
+ * ```
+ * 
+ * ========================================================================
+ * CONTRIBUTING
+ * ========================================================================
+ * 
+ * Contributions are welcome! Please:
+ * 1. Fork the repository
+ * 2. Create a feature branch
+ * 3. Test your changes thoroughly
+ * 4. Submit a detailed pull request
+ * 
+ * For questions or suggestions, open an issue on GitHub.
+ * 
+ * ========================================================================
+ */

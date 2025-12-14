@@ -1,0 +1,37 @@
+MIT License
+
+Copyright (c) 2025 FrostByteNinja
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+ATTRIBUTION REQUIREMENT:
+When using or distributing this software or derivative works, you must:
+1. Give appropriate credit to FrostByteNinja as the original creator
+2. Provide a link to the original repository
+3. Indicate if changes were made to the original source
+
+Example attribution:
+  "Powered by FrostSentinel Plugin System, created by FrostByteNinja
+   https://github.com/FrostByteNinja/FrostSentinel"
+
+CORE MODIFICATION POLICY:
+Modifications to core PluginManager functionality (PluginManager.ts) must be
+submitted for review and approval by FrostByteNinja before being distributed
+or deployed in production environments. This ensures security, compatibility,
+and stability of the plugin ecosystem.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
