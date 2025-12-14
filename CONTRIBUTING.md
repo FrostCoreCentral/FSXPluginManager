@@ -33,14 +33,14 @@ There are many ways to contribute:
 
 ### Creating a Plugin
 
-1. **Develop your plugin** using the DSL
+1. **Develop your plugin** using FrostScript (.fsx)
 2. **Test thoroughly** in your Discord server
 3. **Document** what it does and how to use it
 4. **Share** via pull request or the marketplace
 
 ### Plugin Checklist
 
-- [ ] Follows DSL syntax correctly
+- [ ] Follows FrostScript (.fsx) syntax correctly
 - [ ] Declares all required scopes
 - [ ] Has clear documentation
 - [ ] Includes usage examples
@@ -335,16 +335,15 @@ Console output or screenshots
 
 ## 🎓 Learning Resources
 
-- [DSL Syntax Guide](./docs/DSL_GUIDE.md)
 - [Plugin Examples](./examples/)
 - [Discord.js Docs](https://discord.js.org)
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/)
 
 ## 📧 Contact
 
-- **Issues:** [GitHub Issues](https://github.com/YourUsername/FrostSentinel/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/YourUsername/FrostSentinel/discussions)
-- **Discord:** [Join our server](https://discord.gg/your-invite)
+- **Issues:** [GitHub Issues](https://github.com/FrostCoreCentral/FSXPluginManager/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/FrostCoreCentral/FSXPluginManager/discussions)
+- **Discord:** [Join our server](https://discord.gg/dzyZhDFs5Y)
 
 ## 🙏 Recognition
 
