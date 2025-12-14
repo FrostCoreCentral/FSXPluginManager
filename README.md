@@ -54,8 +54,8 @@ npm install discord.js vm2 axios @prisma/client
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/FrostSentinel
-cd FrostSentinel
+git clone https://github.com/FrostCoreCentral/FSXPluginManager
+cd FSXPluginManager
 ```
 
 2. Install dependencies:
