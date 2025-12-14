@@ -20,7 +20,7 @@ When using or distributing this software or derivative works, you must:
 
 Example attribution:
   "Powered by FrostSentinel Plugin System, created by FrostByteNinja
-   https://github.com/FrostByteNinja/FrostSentinel"
+   https://github.com/FrostCoreCentral/FSXPluginManager"
 
 CORE MODIFICATION POLICY:
 Modifications to core PluginManager functionality (PluginManager.ts) must be
