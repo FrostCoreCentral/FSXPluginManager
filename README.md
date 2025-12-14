@@ -17,7 +17,7 @@
 
 ## 🌟 Overview
 
-The FrostSentinel Plugin System allows developers to create powerful Discord bot plugins using a custom Domain-Specific Language (DSL). This system provides:
+The FrostSentinel Plugin System allows developers to create powerful Discord bot plugins using **FrostScript (.fsx)** - a custom Domain-Specific Language designed specifically for Discord bot development. This system provides:
 
 - **Easy-to-learn syntax** - Write plugins without complex JavaScript
 - **Built-in security** - Sandboxed execution with scope-based permissions
@@ -34,6 +34,7 @@ The FrostSentinel Plugin System allows developers to create powerful Discord bot
 - 🗄️ **Database Integration** - Built-in database operations
 - ⏱️ **Cooldown System** - Prevent spam with customizable cooldowns
 - 🔐 **Permission Checks** - User and bot permission validation
+- 📝 **FrostScript (.fsx)** - Easy-to-learn scripting language
 
 ### Advanced Features
 - 🎨 **Custom Events** - Define and trigger your own events
@@ -54,8 +55,8 @@ npm install discord.js vm2 axios @prisma/client
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/FrostCoreCentral/FSXPluginManager
-cd FSXPluginManager
+git clone https://github.com/YourUsername/FrostSentinel
+cd FrostSentinel
 ```
 
 2. Install dependencies:
@@ -105,11 +106,11 @@ module plugin {
 - `command` - Creates a command users can run with `?hello`
 - `guilds.send()` - Sends a message to the channel
 
-## 📚 DSL Syntax Guide
+## 📚 FrostScript (.fsx) Syntax Guide
 
 ### Basic Syntax
 
-The DSL uses familiar JavaScript-like syntax with some simplifications:
+FrostScript uses familiar JavaScript-like syntax with some simplifications:
 
 ```javascript
 // Variables (automatically const)
@@ -432,7 +433,7 @@ When using or modifying this system:
 ```
 Powered by FrostSentinel Plugin System
 Created by FrostByteNinja
-https://github.com/FrostCoreCentral/FSXPluginManage
+https://github.com/FrostCoreCentral/FSXPluginManager
 ```
 
 ### Core Maintainer Rights
